@@ -32,7 +32,7 @@ int main() {
 	v3.erase(v3.begin(), v3.end() - 1);
 	cout << "v3: ";
 	printVector(v3);
-	// v3: 
+	// v3: 5
 	
 	return 0;
 }
